@@ -1,0 +1,4 @@
+--extra-index-url https://pypi.rasa.com/simple
+
+rasa==2.8.33
+rasa-x
